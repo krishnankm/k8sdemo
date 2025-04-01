@@ -17,6 +17,6 @@ Steps to access:
 3. **Scaling Applications** - Scale up and down seamlessly to handle traffic.
 4. **Self-Healing Mechanism** - Kubernetes automatically recovers from failures.
 5. **Rolling Updates & Rollbacks** - Update applications with zero downtime and rollback when needed.
+6. **Autoscaling using HPA** - Scale up deployment automatically based on CPU usage.
 
 Each task contains a README with instructions and relevant YAML files.
-
